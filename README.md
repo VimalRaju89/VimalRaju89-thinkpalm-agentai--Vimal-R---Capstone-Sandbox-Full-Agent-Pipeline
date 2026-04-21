@@ -1,3 +1,5 @@
+Vimal R---Backend Dev ---Capstone Sandbox — Full Agent Pipeline
+
 # Nexus Intelligence Suite 🌌
 
 A premium, end-to-end multi-agent orchestration pipeline built with **LangGraph**, **Groq**, and **FastAPI**. This suite automates complex research tasks by coordinating specialized AI agents with persistent memory and real-time tool-calling.
@@ -71,6 +73,3 @@ src/
 2. Click **"Submit"**.
 3. Watch the **Agent Log** for real-time progress.
 4. Review the **Executive Report** once synthesized.
-
----
-Built with ❤️ by Antigravity.
