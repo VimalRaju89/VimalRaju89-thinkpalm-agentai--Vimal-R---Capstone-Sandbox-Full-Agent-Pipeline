@@ -1,4 +1,4 @@
-Vimal R---Backend Dev ---Capstone Sandbox — Full Agent Pipeline
+Vimal R-Backend Dev-Capstone Sandbox - Full Agent Pipeline
 
 # Nexus Intelligence Suite 🌌
 
